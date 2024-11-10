@@ -22,8 +22,9 @@ Aspiring Front-end Developer eager to enhance my skill set and broaden my unders
 ---
 
 ### Code Examples
-- [GitHub Repositories](https://github.com/your-github-account)
-- [GitLab Repositories](https://gitlab.com/your-gitlab-account)
+- **TaskTrack (Task Management App)**[see GitLab](https://gitlab.com/Mozz1nho/task-manager.git)
+- **Quizz App**[see GitHub](https://github.com/kqosimov/E-Quiz-App.git)
+- **Tip Calculator**[see GitHub](https://github.com/kqosimov/F-Tip-Calculator.git)
 
 ---
 
@@ -34,7 +35,7 @@ Aspiring Front-end Developer eager to enhance my skill set and broaden my unders
 
 - **IT-Park University Semester V Course Project**
   - Role: Team Lead of a 10-member student team
-  - Led a team project, organizing tasks, ensuring effective communication, and guiding team members through project stages to build a functional web application. Implemented features using HTML, CSS, JavaScript, and React.
+  - Led a multidisciplinary team comprising designers, testers, and a business analyst. For the front end, we used HTML, CSS, JavaScript, and React, while the back end was developed with Python and PostgreSQL. Managed task delegation, project timelines, and guided team members through project phases to ensure a cohesive and functional web application.
 
 ---
 
